@@ -12,4 +12,4 @@ assignees: ''
 **I want to :**
 
 
-**So that I can : **
+**So that I can :**
